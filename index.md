@@ -2,6 +2,6 @@
 layout: default
 ---
 
-# Hello World
+# Hello Universe
 
 This is a test.
