@@ -4,8 +4,3 @@ theme: jekyll-theme-minimal
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
-defaults:
-  - scope:
-      path: ""
-    values:
-      image:    # Optional: a nice image for social sharing
