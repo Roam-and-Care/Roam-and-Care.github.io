@@ -1,3 +1,13 @@
 title: Roam and Care
 description: We roam, so you can work, relax, or handle the unexpected. Your home, animals, land – always cared for.
 theme: jekyll-theme-minimal
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image:    # Optional: a nice image for social sharing
