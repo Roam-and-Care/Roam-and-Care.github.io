@@ -1,6 +1,6 @@
 ---
 layout: default
-title: House and petsitting
+title: House and farmsitting
 description: How we care for your pets and your home.
-permalink: /Houseandpetsitting/
+permalink: /House and farmsitting/
 ---
