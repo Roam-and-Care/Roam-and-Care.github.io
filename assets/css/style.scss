@@ -3,3 +3,42 @@
 @import "{{ site.theme }}";
 
 /* Your custom styles go below this line */
+---
+---
+@import "{{ site.theme }}";
+
+/* Change the background color of the whole page */
+body {
+  background-color: #1ec7b9;  /* teal */
+}
+
+/* Change the main text color */
+body, p, li {
+  color: #2d3a3a;  /* Dark teal */
+}
+
+/* Change the color of headings */
+h1, h2, h3, h4 {
+  color: #1a4a3a;  /* Forest green */
+}
+
+/* Change link colors */
+a {
+  color: #2a7a6a;  /* Muted teal */
+}
+
+a:hover {
+  color: #1a5a4a;  /* Darker teal on hover */
+}
+
+/* Add a bit more padding to the main container */
+.wrapper {
+  padding: 2rem 2.5rem;
+}
+
+/* Change the navigation bar background (if you have one) */
+header {
+  background-color: #e8e3dd;
+  padding: 1rem 1.5rem;
+  border-radius: 8px;
+}
