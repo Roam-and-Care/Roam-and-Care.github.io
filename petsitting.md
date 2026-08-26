@@ -2,7 +2,7 @@
 layout: default
 title: Petsitting and dogwalking
 description: Our animal care services
-permalink: /Petsitting and dogwalking/
+permalink: /"Petsitting and dogwalking"/
 ---
 
 Photo updates. See your pets happy, every visit.
