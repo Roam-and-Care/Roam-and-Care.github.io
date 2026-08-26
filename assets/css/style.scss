@@ -2,11 +2,6 @@
 ---
 @import "{{ site.theme }}";
 
-/* Your custom styles go below this line */
----
----
-@import "{{ site.theme }}";
-
 /* Change the background color of the whole page */
 body {
   background-color: #1ec7b9;  /* teal */
