@@ -4,7 +4,7 @@ title: Petsitting and dogwalking
 description: Our animal care services
 permalink: /petsitting/
 ---
-
+![Mid-walk nap](/assets/images/tomnap.jpg)
 Photo updates. See your pets happy, every visit.
 
 Your exact schedule followed: feeding, meds, companionship and exercise.
